@@ -19,7 +19,7 @@ No CORS setup is needed in development: Vite forwards every `/api/*` request to 
 
 | Email                | Password    | Sees                                  |
 |----------------------|-------------|---------------------------------------|
-| admin@example.com    | Admin@123   | Users, Profile and tasks              |
+| virajp@abc.com       | Admin@123   | Users, Profile and tasks              |
 | manager@example.com  | Manager@123 | Team tasks, Profile and tasks         |
 | user@example.com     | User@1234   | Profile and tasks                     |
 | jane@example.com     | Jane@1234   | Team tasks, Profile and tasks         |
